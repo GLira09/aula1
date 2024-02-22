@@ -1,2 +1,2 @@
 # aula1
-repositorio para ensinar alunos a usar o gityhub
+repositorio para ensinar alunos a usar o gityhubs
